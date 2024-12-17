@@ -1,0 +1,7 @@
+{
+  "name": "beatz2",
+  "pkgName": "com.studiobool.bz",
+  "chunks": 70,
+  "banner": "bzbanner.png",
+  "filePrefix": "BeatZ"
+}
